@@ -1,0 +1,6 @@
+data_path: /works/extract_frame/save_img
+output_path: /works/extract_frame/save_img_refresh
+max_copy_img: 20
+original_copy: True
+max_algorithm: 4
+option_algorithm: True

@@ -1,3 +1,4 @@
-video_path: /works/extract_frame/set01_drone03.mp4
-save_img_path: /works/extract_frame/drone3/
-save_frame_count: 1
+video_path: /works/extract_frame/set01_drone01.mp4
+out_path: /works/extract_frame/save_img_crop/
+save_frame_count: 120
+out_img_size: 240
